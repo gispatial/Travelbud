@@ -168,7 +168,7 @@ Vuexy Admin comes with useful third party plug-ins to help you building your app
 Description: THE best javascript grid in the world
 
 ## Third-Party Plugins
-Tripcarte Dashboard Portal comes with useful third party plug-ins to help you building your app quickly.
+Tripbud Dashboard Portal comes with useful third party plug-ins to help you building your app quickly.
 ### Technical Specification (Credits 🙏)<p></p>
 <li>Powered by&nbsp;<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue</a></li>
 <li><a href="https://cli.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue CLI 3</a></li>
