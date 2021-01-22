@@ -1,8 +1,5 @@
-# tdmp-merchants
- TDMP-MERCHANTS-FRONTEND-VUE-WITH-API
- <p>
- </p>
- <img src="https://github.com/gispatial/tripcarte-asia/blob/master/src/assets/images/pages/home-dashboard.png" width="100%">
+# Travelbud
+ MERCHANTS-FRONTEND-VUE-WITH-API-AND-VUEX
  
 ## TDPM-API
 <table data-v-7b6b9330="">
@@ -171,7 +168,7 @@ Vuexy Admin comes with useful third party plug-ins to help you building your app
 Description: THE best javascript grid in the world
 
 ## Third-Party Plugins
-Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help you building your app quickly.
+Tripcarte Dashboard Portal comes with useful third party plug-ins to help you building your app quickly.
 ### Technical Specification (Credits 🙏)<p></p>
 <li>Powered by&nbsp;<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue</a></li>
 <li><a href="https://cli.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue CLI 3</a></li>
@@ -281,13 +278,4 @@ Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help 
 ├── themeConfig.js			                -&gt; Vuexy Admin configuration
 └── vue.config.js			                -&gt; VueJS configuration</code></pre>
 
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="http://tripcarte.asia/" target="_blank">Tripcarte.Asia</a>
-
-# About Tripcarte.Asia Dashboard Portal Project
-
-At Netquest Solutions Sdn Bhd, our engineers constantly use latest framework, technologies and programming language. Keeping up to date with latest framework not only ensures rapid development time, but updated framework technologies are more protected from malwares, security threats and operating system incompatibility. For more info, please visit: https://netquestsolutions.com/
+# i will output tasks here later on for u mathur. Thanks :)
